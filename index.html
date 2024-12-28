@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>{{ page.title }}</h1>
+    <p>
+      Hey guys, my name is Yochay.
+    </p>
+
+    {% assign profile_img = site.static_files | where: 'name', 'profile-img.png' | first %}
+    <img src="{{ profile_img.path }}" />
+    
+    <p>
+      I have experience of over 7 years in making FullStack web applications.
+      I'm working on my Master's degree in Political Science, 
+      but meanwhile you can check a few of my public products:
+    </p>
+  </body>
+</html>
