@@ -1,7 +1,7 @@
 ---
 layout: project
 title: INES Interactive Interface
-image: "/awesome-jekyll-theme/screenshots/ines-interactive.png"
+image: "/screenshots/ines-interactive.png"
 tags:
   - react
   - html
