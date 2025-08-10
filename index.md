@@ -2,28 +2,42 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
-image: /assets/images/main.avif
+  Described as a person that is human
+image: /assets/images/profile-img.jpg
 main_content: >
-  # Hello Friend. Hello World.
+  # Yochay Manor
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  A [FullStack Developer](/awesome-jekyll-theme/#content) and an M.A [Political Science](/awesome-jekyll-theme/#content) Student. 
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
 
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  I like explaining complicated subjects in human language • Usually aiming to improve the way our society organizes, makes decisions and operates together •
+  Volunteered at [Pa’amonim](https://www.paamonim.org/he/) and at [Israel 2050](https://israel2050.co.il/) •
+  Also interested in science, investments, history & more.
 footer: true
 permalink: /
 ---
-## Hello World
+## My "DEV" side
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat porta lorem, non auctor magna aliquet ac. Nam finibus in massa quis molestie. Vestibulum malesuada iaculis consequat. Phasellus sagittis, nisl non semper vestibulum, tellus enim interdum purus, ac pretium magna lectus ac turpis. Phasellus scelerisque hendrerit magna vitae fermentum. Praesent facilisis erat viverra eros tristique, id faucibus eros volutpat. Duis tempus arcu in felis sollicitudin, in sodales leo scelerisque. Nullam dapibus libero eu iaculis rhoncus.
+My experience spans multiple programming languages and frameworks, including JavaScript, React,NodeJS and Python.
 
-Nulla sed lorem imperdiet, efficitur velit et, mollis neque. Etiam placerat vehicula diam, a scelerisque diam posuere vel. Sed a convallis elit. Proin sodales, mi sit amet aliquam lobortis, ligula elit tristique justo, sodales placerat diam nunc vitae eros. Etiam maximus mauris eget sem varius, mollis ullamcorper metus porttitor. Aenean at elit sodales, rutrum ex tincidunt, molestie lorem. Donec in ante fermentum, pharetra dolor in, tempus nunc. Vivamus in lacinia lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
+I like collaborating as a team player or leader, but as a freelancer I've also managed projects solo: 
+Coverting sometimes-blurry project requirements to a detailed system design, 
+pushing it from zero to production and working my way through various environments and constaints.
+
+
+## My "Social" side
+
+I'm currently studying as an M.A Political Science Student in Tel-Aviv University.
+I'm a research assistant at [INES](https://socsci4.tau.ac.il/mu2/ines/) (Israel National Election Studies) 
+and in another group which studies [populism](https://www.orendanieli.com/research#:~:text=%22Decomposing%20the%20Rise%20of%20the%20Populist%20Radical%20Right%22%20with%20Noam%20Gidron%2C%20Shinnosuke%20Kikuchi%2C%20and%20Ro%27ee%20Levy).
+
+
+I've previously worked in Shrinking the Conflict Initiative, 
+a project that aimed to impact policy and public opinion for improving the Israeli-Palestinian Conflict.
+
+
+Working on an ambitious project that combines technology and social impact?
+<br>
+[I'd love to hear about it](mailto:yochay.manor@gmail.com)!

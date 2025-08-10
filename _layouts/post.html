@@ -30,10 +30,15 @@ layout: default
     </div>
 
     {% if page.image %}
-      <img data-motion="fadeInUp" data-motion-onscroll="false" data-motion-delay="0.8" data-motion-duration="0.2" class="w-full" src="{{page.image | relative_url}}" alt="{{page.title}}">
+      <img data-motion="fadeInUp" data-motion-onscroll="false" data-motion-delay="0.8" data-motion-duration="0.2" class="w-full" src="{{page.image}}" alt="{{page.title}}">
     {% endif %}
 
-    <div data-motion="fadeInUp" data-motion-onscroll="false" data-motion-delay="1" data-motion-duration="0.2" class="my-6">
+    <div data-motion="fadeInUp" 
+         data-motion-onscroll="false" 
+         data-motion-delay="1" 
+         data-motion-duration="0.2" 
+         class="my-6"
+         {% if page.rtl %} dir="rtl" style="text-align:right;"{% endif %}>
       {{content}}
     </div>
 

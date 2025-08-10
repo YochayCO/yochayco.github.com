@@ -1,8 +1,8 @@
 home:
-  contact_me: "You can contact me on any of these channels:"
-  blog_title: "Blog: Last Posts"
-  see_more_posts: "See More Posts ->"
-  projects_title: "Last Projects"
+  contact_me: "Let's connect on LinkedIn:"
+  blog_title: "Thoughts & Articles"
+  see_more_posts: "See More ->"
+  projects_title: "Latest Projects"
   see_more_projects: "See More Projects ->"
 footer:
   title: "Let's keep in touch!"
@@ -12,4 +12,4 @@ blog:
   read_more: "Read More ->"
   more_articles: "More Posts"
 post:
-  share: Like it? Share it!
+  share: You reached this far? Share with your friends!

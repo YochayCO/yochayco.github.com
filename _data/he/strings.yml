@@ -1,0 +1,15 @@
+home:
+  contact_me: "צרו איתי קשר באחד מהערוצים שלי:"
+  blog_title: "דעות ומאמרים"
+  see_more_posts: "לכל השאר ->"
+  projects_title: "הפרויקטים האחרונים שלי"
+  see_more_projects: "לכל הפרויקטים ->"
+footer:
+  title: "בואו נשאר בקשר!"
+  description: "תמצאו אותי באחת מהפלטפורמות האלו."
+  pages: 
+blog:
+  read_more: "קרא עוד ->"
+  more_articles: "עוד כאלה"
+post:
+  share: הגעתם עד כאן? שתפו עם חבריכם!
