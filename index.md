@@ -8,7 +8,7 @@ main_content: >
   # Yochay Manor
 
 
-  A [FullStack Developer](/awesome-jekyll-theme/#content) and an M.A [Political Science](/awesome-jekyll-theme/#content) Student. 
+  An M.A Political Science Student and sometimes also FullStack Developer. 
 
 
   I like explaining complicated subjects in human language • Usually aiming to improve the way our society organizes, makes decisions and operates together •
@@ -19,11 +19,11 @@ permalink: /
 ---
 ## My "DEV" side
 
-My experience spans multiple programming languages and frameworks, including JavaScript, React,NodeJS and Python.
+My experience spans multiple programming languages and frameworks, including JavaScript, React, NodeJS, Python and (unfortunately) R.
 
 
 I like collaborating as a team player or leader, but as a freelancer I've also managed projects solo: 
-Coverting sometimes-blurry project requirements to a detailed system design, 
+Converting sometimes-blurry project requirements to a detailed system design, 
 pushing it from zero to production and working my way through various environments and constaints.
 
 
@@ -38,6 +38,6 @@ I've previously worked in Shrinking the Conflict Initiative,
 a project that aimed to impact policy and public opinion for improving the Israeli-Palestinian Conflict.
 
 
-Working on an ambitious project that combines technology and social impact?
+Working on a unique techonological project which aims for social impact?
 <br>
 [I'd love to hear about it](mailto:yochay.manor@gmail.com)!
