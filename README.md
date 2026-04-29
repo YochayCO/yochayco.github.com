@@ -30,8 +30,6 @@ This theme provides several **layouts** for different types of pages. Each layou
 
 - **Project Layout**: Designed for **individual project pages**. Includes project image, description, and tags.
 
-**I will be describing each layout on a near future, if you have a question just ask.**
-
 ## Configuration
 
 ### Navbar and Footer
